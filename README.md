@@ -138,12 +138,6 @@ practice:
 
 ------------------------------------------------------------------------
 
-## Repository Contents
-
-    Evanich_DSC630_Project_portfolio.ipynb   # Full analysis with explanations  
-    README.md                               # Project summary and context  
-
-------------------------------------------------------------------------
 
 ## Future Improvements
 
